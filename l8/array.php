@@ -1,7 +1,2 @@
 ﻿<?php
-/**
- * Created by PhpStorm.
- * User: gagau
- * Date: 21.02.2019
- * Time: 14:59
- */
+$arr = [1,21,312,3,123,12,31,23,12,312];
