@@ -6,7 +6,7 @@
  * Time: 13:30
  */
 
-class auto
+class Auto
 {
     public $name;
     public $doors ;
@@ -61,7 +61,7 @@ class auto
     {
         if ($this->place < 7 )
         {
-            $this->trueMsg(3);
+            $this->trueMsg(2);
         }else
              $this->displayInfo(2);
 
@@ -75,7 +75,7 @@ class auto
     {
         if ($this->state == true)
         {
-            $this->trueMsg(4);
+            $this->trueMsg(3);
         }else
             $this->displayInfo(1);
 

@@ -1,5 +1,5 @@
 ﻿<?php
-include 'auto.php';
+include 'Auto.php';
 
 $lada = new auto('Лада','white',4,4,'left',0,5, false);
 $lada->ride();
